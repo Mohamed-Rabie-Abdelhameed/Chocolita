@@ -1,2 +1,2 @@
-# Chocolita   
+# Chocolita 🍫      
 ## Chocolate Shop Website
